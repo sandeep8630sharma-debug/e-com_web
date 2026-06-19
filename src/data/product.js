@@ -3,153 +3,175 @@ export const initialProducts = [
   // Realistic Image URLs for Phone (Dark)
   {
     id: 101,
-    name: "MackBook Air - M4 Black",
+    name: "Classic Floral Diamond Necklace",
     price: 119990,
-    image: "https://m.media-amazon.com/images/I/71CjP9jmqZL._SL1500_.jpg",
+    image: "https://i.pinimg.com/170x/f8/c2/95/f8c2951eb46df797cf4e83449f509fc8.jpg",
     description:
-      "The ultimate smartphone experience with a 108MP camera and all-day battery life.",
-    category: "Laptop",
+      "A graceful floral-inspired necklace with sparkling stones and emerald accents, ideal for festive and party wear.",
+    category: "necklace",
   },
   // Realistic Image URLs for Laptop (Silver)
   {
     id: 102,
-    name: "MackBook Air - M4 Golden",
+    name: "Crystal Cascade Necklace Set",
     price: 119990,
-    image: "https://m.media-amazon.com/images/I/71XIkqkx+KL._SL1500_.jpg",
+    image: "https://i.pinimg.com/236x/67/80/f6/6780f6179807a31bba6298163be3850e.jpg",
     description:
-      "Powerful and portable, featuring a 14-inch edge-to-edge display and latest CPU.",
-    category: "Laptop",
+       "A sophisticated necklace set featuring cascading crystal drops and matching earrings for elegant occasions.",
+     category: "necklace",
   },
   // Realistic Image URLs for Tablet (with stylus)
   {
     id: 103,
-    name: "iphone 17 pro max",
+    name: "Classic Floral Diamond Necklace",
     price: 79990,
-    image: "https://m.media-amazon.com/images/I/618vU2qKXQL._SL1500_.jpg",
+    image: "https://i.pinimg.com/236x/c1/80/8c/c1808c92fae0c816523ab23fb0bf6647.jpg",
     description:
-      "Vibrant 10-inch display for media consumption and light productivity tasks.",
-    category: "Phone",
+      "A graceful floral-inspired necklace with sparkling stones and emerald accents, ideal for festive and party wear.",
+    category: "necklace",
   },
   // Realistic Image URLs for Camera (Mirrorless)
   {
     id: 401,
-    name: "iphone 17 air Silver",
+    name: "Diamond Empress Waterfall Set",
     price: 95490,
-    image: "https://m.media-amazon.com/images/I/61SKi94cImL._SL1500_.jpg",
+    image: "https://static.vecteezy.com/system/resources/thumbnails/075/625/735/small/a-diamond-necklace-and-earrings-on-display-photo.jpg",
     description:
       "Capture stunning photos and 4K videos with professional-grade performance.",
-    category: "Phone",
+    category: "necklace",
   },
   // Realistic Image URLs for Phone (Light/Older Model)
   {
     id: 501,
-    name: "iphone 17 pro max Gold",
+    name: "Sovereign Sparkle Necklace Set",
     price: 79990,
-    image: "https://m.media-amazon.com/images/I/71JGCn1z1TL._SL1500_.jpg",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHn62jbqfVR3ISq9vWGVNTeR3FgEllpAw6BL2jZBxHttDqaBtXot82ZDU&s=10",
     description:
       "An affordable, feature-packed phone with a secure biometric sensor.",
-    category: "Phone",
+    category: "necklace",
   },
   // Realistic Image URLs for Laptop (Chromebook)
   {
-  id: 609,
-  name: "HP Pavilion Plus, Intel Core i5-1335U-13th Gen Laptop, (16GB LPDDR5x,512GB SSD),IPS",
-  price: 69990,
-  image: "https://m.media-amazon.com/images/I/61s8J1vGi0L._SL1500_.jpg",
-  description:
-    "The ultimate smartphone experience with a 108MP camera and all-day battery life.",
-  category: "Laptop",
-},
+    id: 609,
+    name: "HP Pavilion Plus, Intel Core i5-1335U-13th Gen Laptop, (16GB LPDDR5x,512GB SSD),IPS",
+    price: 0,
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMqHT8bxVHaiw82j8Mh2AsAK9yx4T3irA75BN-USS57Mc2jKmFtWq8WiIw&s=10",
+    description:
+      "The ultimate smartphone experience with a 108MP camera and all-day battery life.",
+    category: "necklace",
+  },
   {
     id: 601,
-    name: "iphone 17 air White",
+    name: "Eternal Diamond Royale",
     price: 95490,
-    image: "https://m.media-amazon.com/images/I/61Ce-6B6x+L._SL1500_.jpg",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSQxpczjtsDl5epwbxhyTl8p7lL9Mnq4KRTxcTIYdFUIDp-5mojavCphQ&s=10",
     description:
       "Lightweight and fast, perfect for students and cloud-based work.",
-    category: "Phone",
+    category: "necklace",
   },
-    {
+  {
     id: 609,
-    name: "Sony Alpha ILCE-7RM3A Full-Frame 42.4MP Mirrorless",
+    name: "The Imperial Spark Collection",
     price: 120990,
-    image: "https://m.media-amazon.com/images/I/71VnF6UiESL._SL1500_.jpg",
+    image: "https://i.pinimg.com/videos/thumbnails/originals/61/a9/50/61a950d4d11905ca7f18011276c0a832.0000000.jpg",
     description:
-      "Lightweight and fast, perfect for students and cloud-based work.",
-    category: "Camera",
+      "27 Diamond necklace set ideas | diamond necklace set, diamond necklace designs, bridal diamond necklace.",
+
+    category: "necklace",
   },
   {
     id: 602,
     name: "ipad M4 white",
     price: 54990,
-    image: "https://m.media-amazon.com/images/I/719uQ7BLfrL._SX679_.jpg",
+    image: "https://i.pinimg.com/736x/b0/78/cc/b078cc2c59a8c172e890b9458a398b8f.jpg",
     description:
-      "Lightweight and fast, perfect for students and cloud-based work.",
-    category: "Tablet",
+      "Delicate floral artistry adorned with sparkling stones, designed to capture the essence of modern royalty.",
+    category: "necklace",
   },
   {
     id: 603,
     name: "ipad M4 gold",
     price: 54990,
-    image: "https://m.media-amazon.com/images/I/719oEHipgqL._SL1500_.jpg",
+    image: "https://www.shreehari.co/media/catalog/product/cache/57db4a1e37f9bcfcae47c0bfd2b59438/a/s/ast3161rdkerb.jpg",
     description:
-      "Lightweight and fast, perfect for students and cloud-based work.",
-    category: "Tablet",
+      "Featuring cascading diamond-like brilliance, this luxurious set exudes royal charm and sophistication.",
+    category: "necklace",
   },
   {
     id: 604,
-    name: "Lenovo Tab 9",
+    name: "Signature Edition",
     price: 35990,
-    image: "https://m.media-amazon.com/images/I/71PwporL-mL._SL1500_.jpg",
+    image: "https://theppjewellers.com/storage/uploads/media/2026/05/Gemini-Generated-Image-kldun7kldun7kldu-940x1138.png",
     description:
-      "Lightweight and fast, perfect for students and cloud-based work.",
-    category: "Tablet",
+      "An opulent emerald and diamond-inspired masterpiece crafted for timeless elegance and regal celebrations.",
+    category: "necklace",
   },
-   {
+  {
     id: 610,
-    name: "Sony Alpha ILCE-7M3K Full-Frame 24.2MP Mirrorless Digital SLR Camera",
+    name: "The Quiet Luxury Diamond Pendant Set",
     price: 120990,
-    image: "https://m.media-amazon.com/images/I/71j3bPnm+UL._SL1500_.jpg",
+    image: "https://www.caratlane.com/blog/wp-content/uploads/2026/01/diamond-bridal-jewellery-set.jpg",
     description:
-      "Lightweight and fast, perfect for students and cloud-based work.",
-    category: "Camera",
+      "The Quiet Luxury Diamond Pendant Set.",
+    category: "necklace",
   },
   {
     id: 605,
-    name: "Apple ipad Go Lite",
+    name: "AD Necklace",
     price: 35990,
     image:
-      "https://m.media-amazon.com/images/I/61kV643xjIL._SL1500_.jpghttps://m.media-amazon.com/images/I/81LskAU5h1L._SX679_.jpg",
+      "https://i.pinimg.com/474x/0d/e2/d7/0de2d7b05d46a4d938f8bc9418ffdf53.jpg?nii=t",
     description:
-      "Lightweight and fast, perfect for students and cloud-based work.",
-    category: "Tablet",
+      "Designer Premium Bridal AD Stone Necklace Set With Earrings -Silver Polish.",
+    category: "necklace",
   },
   {
     id: 606,
-    name: "Canon E0S - 200",
+    name: "Dana AD Necklace Set",
     price: 60990,
-    image: "https://m.media-amazon.com/images/I/81LskAU5h1L._SX679_.jpg",
+    image: "https://ajeh.in/cdn/shop/files/IMG_8470.jpg?v=1752938569&width=1445",
     description:
-      "Lightweight and fast, perfect for students and cloud-based work.",
-    category: "Camera",
+      "Dana AD Necklace Set | American Diamond Necklace Set - sharma Jewellery.",
+    category: "necklace",
+  
   },
   {
     id: 607,
-    name: "Nikon Mirroless",
+    name: "Silver Polish ",
     price: 90990,
-    image: "https://m.media-amazon.com/images/I/51AbWisvJfL._SX679_.jpg",
+    image: "https://siyari.com/cdn/shop/articles/Bridal_diamond_necklace_in_hyderabad_2.jpg?v=1762237316&width=4038",
     description:
-      "Lightweight and fast, perfect for students and cloud-based work.",
-    category: "Camera",
+      "Bridal Diamond Necklace – Classic Designs with Modern Elegance",
+
+    category: "necklace",
   },
-    {
+  {
     id: 608,
-    name: "HP Pavilion x360, 13th Gen Intel Core i5-1335U (16GB DDR4, 512GB SSD) Black",
+    name: "Premium Bridal AD Stone Necklace ",
     price: 69990,
-    image: "https://m.media-amazon.com/images/I/618zAXbM4uL._SL1500_.jpg",
+    image: "https://zuccii.com/cdn/shop/files/Designer_Premium_Bridal_ADz_Stone_Necklace_Set_With_Earrings_-Silver_Polish.jpg",
     description:
-      "The ultimate smartphone experience with a 108MP camera and all-day battery life.",
-    category: "Laptop",
-  }, 
+      "Designer Premium Bridal AD Stone Necklace Set With Earrings -Silver Polish Pink.",
+    category: "necklace",
+  },
+
+  {
+    id: 654,
+    name: "Silver Toned Emerald Green Zircon ",
+    price: 90999,
+    image: "https://cdn.eternz.com/thumbnails/products/283528329_110b7074_thumbnail_1024.jpg",
+    description:"Silver Toned Emerald Green Zircon AD Studded Layered Bridal Drop Designer Statement Necklace.",
+    category: "necklace",
+  },
+
+  {
+    id: 655,
+    name: "Silver Toned Emerald Green Zircon ",
+    price: 90999,
+    image: " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGQA8Mi3HT0H3VL0WUDXOmBI_XjkD-B-WfxJw4CBEniWG6TW6HBeshTg8&s=10",
+    description:"Silver Toned Emerald Green Zircon AD Studded Layered Bridal Drop Designer Statement Necklace set.",
+    category: "necklace",
+  },
+  
 
 ];
