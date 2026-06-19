@@ -81,7 +81,7 @@ export const initialProducts = [
   },
   {
     id: 602,
-    name: "ipad M4 white",
+    name: "The Regal Heritage Collection green diamond",
     price: 54990,
     image: "https://i.pinimg.com/736x/b0/78/cc/b078cc2c59a8c172e890b9458a398b8f.jpg",
     description:
@@ -90,7 +90,7 @@ export const initialProducts = [
   },
   {
     id: 603,
-    name: "ipad M4 gold",
+    name: "The Regal Heritage Collection",
     price: 54990,
     image: "https://www.shreehari.co/media/catalog/product/cache/57db4a1e37f9bcfcae47c0bfd2b59438/a/s/ast3161rdkerb.jpg",
     description:
