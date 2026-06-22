@@ -14,11 +14,10 @@ const Navbar = () => {
             <div className="flex items-center space-x-3 cursor-pointer">
               <Home className="w-8 h-8 text-orange-400 drop-shadow-lg" />
               <h1 className="text-4xl font-extrabold tracking-widest uppercase">
-                sharma<span className="text-orange-400">STORE</span>
+              𝕹𝖎𝖘𝖍𝖆𝖓𝖙 <span className="text-orange-400">𝕭𝖆𝖓𝖌𝖑𝖊𝖘</span>
               </h1>
             </div>
           </Link>
-
           <nav className="flex items-center space-x-6">
             <Link
               to={"/cart"}
