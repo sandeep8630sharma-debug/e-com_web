@@ -242,15 +242,15 @@ export const initialProducts = [
     price: 909,
     image: "/images/hard.png",
     description:"Silver Toned Emerald Green Zircon AD Studded Layered Bridal Drop Designer Statement royal ring.",
-    category: "Ring",
+    category: "chuda",
   },
 {
     id: 768,
     name: "royal AD chuda",
     price: 900,
-    image: "/images/hard.png",
+    image: "https://jewelsgalaxy.com/cdn/shop/files/SMNJG-RNG-5293-M-1-2x.jpg?v=1757752807&width=1024",
     description:"Silver Toned Emerald Green Zircon AD Studded Layered Bridal Drop Designer Statement royal ring.",
-    category: "chuda",
+    category: "Ring",
   },
 
 
