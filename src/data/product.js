@@ -1,6 +1,6 @@
-// --- 1. DATA (Simulates products.js) ---
+
 export const initialProducts = [
-  // Realistic Image URLs for Phone (Dark)
+  
   {
     id: 101,
     name: "Classic Floral Diamond Necklace",
@@ -10,7 +10,7 @@ export const initialProducts = [
       "A graceful floral-inspired necklace with sparkling stones and emerald accents, ideal for festive and party wear.",
     category: "necklace",
   },
-  // Realistic Image URLs for Laptop (Silver)
+  
   {
     id: 102,
     name: "Crystal Cascade Necklace Set",
@@ -20,7 +20,7 @@ export const initialProducts = [
        "A sophisticated necklace set featuring cascading crystal drops and matching earrings for elegant occasions.",
      category: "necklace",
   },
-  // Realistic Image URLs for Tablet (with stylus)
+  
   {
     id: 103,
     name: "Classic Floral Diamond Necklace",
@@ -30,9 +30,9 @@ export const initialProducts = [
       "A graceful floral-inspired necklace with sparkling stones and emerald accents, ideal for festive and party wear.",
     category: "necklace",
   },
-  // Realistic Image URLs for Camera (Mirrorless)
+  
   {
-    id: 401,
+    id: 104,
     name: "Diamond Empress Waterfall Set",
     price: 5490,
     image: "https://static.vecteezy.com/system/resources/thumbnails/075/625/735/small/a-diamond-necklace-and-earrings-on-display-photo.jpg",
@@ -40,9 +40,9 @@ export const initialProducts = [
       "Capture stunning photos and 4K videos with professional-grade performance.",
     category: "necklace",
   },
-  // Realistic Image URLs for Phone (Light/Older Model)
+  
   {
-    id: 501,
+    id: 105,
     name: "Sovereign Sparkle Necklace Set",
     price: 9990,
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHn62jbqfVR3ISq9vWGVNTeR3FgEllpAw6BL2jZBxHttDqaBtXot82ZDU&s=10",
@@ -50,18 +50,18 @@ export const initialProducts = [
       "An affordable, feature-packed phone with a secure biometric sensor.",
     category: "necklace",
   },
-  // Realistic Image URLs for Laptop (Chromebook)
+  
   {
-    id: 609,
+    id: 106,
     name: "HP Pavilion Plus, Intel Core i5-1335U-13th Gen Laptop, (16GB LPDDR5x,512GB SSD),IPS",
-    price: 0,
+    price: 8888,
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMqHT8bxVHaiw82j8Mh2AsAK9yx4T3irA75BN-USS57Mc2jKmFtWq8WiIw&s=10",
     description:
       "The ultimate smartphone experience with a 108MP camera and all-day battery life.",
     category: "necklace",
   },
   {
-    id: 601,
+    id: 107,
     name: "Eternal Diamond Royale",
     price: 5490,
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSQxpczjtsDl5epwbxhyTl8p7lL9Mnq4KRTxcTIYdFUIDp-5mojavCphQ&s=10",
@@ -70,7 +70,7 @@ export const initialProducts = [
     category: "necklace",
   },
   {
-    id: 609,
+    id: 108,
     name: "The Imperial Spark Collection",
     price: 120990,
     image: "https://i.pinimg.com/videos/thumbnails/originals/61/a9/50/61a950d4d11905ca7f18011276c0a832.0000000.jpg",
@@ -80,7 +80,7 @@ export const initialProducts = [
     category: "necklace",
   },
   {
-    id: 602,
+    id: 109,
     name: "The Regal Heritage Collection green diamond",
     price: 4990,
     image: "https://i.pinimg.com/736x/b0/78/cc/b078cc2c59a8c172e890b9458a398b8f.jpg",
@@ -89,7 +89,7 @@ export const initialProducts = [
     category: "necklace",
   },
   {
-    id: 603,
+    id: 110,
     name: "The Regal Heritage Collection",
     price: 4990,
     image: "https://www.shreehari.co/media/catalog/product/cache/57db4a1e37f9bcfcae47c0bfd2b59438/a/s/ast3161rdkerb.jpg",
@@ -98,7 +98,7 @@ export const initialProducts = [
     category: "necklace",
   },
   {
-    id: 604,
+    id: 111,
     name: "Signature Edition",
     price: 5990,
     image: "https://theppjewellers.com/storage/uploads/media/2026/05/Gemini-Generated-Image-kldun7kldun7kldu-940x1138.png",
@@ -107,7 +107,7 @@ export const initialProducts = [
     category: "necklace",
   },
   {
-    id: 610,
+    id: 112,
     name: "The Quiet Luxury Diamond Pendant Set",
     price: 20990,
     image: "https://www.caratlane.com/blog/wp-content/uploads/2026/01/diamond-bridal-jewellery-set.jpg",
@@ -116,7 +116,7 @@ export const initialProducts = [
     category: "necklace",
   },
   {
-    id: 605,
+    id: 113,
     name: "AD Necklace",
     price: 5990,
     image:
@@ -126,7 +126,7 @@ export const initialProducts = [
     category: "necklace",
   },
   {
-    id: 606,
+    id: 114,
     name: "Dana AD Necklace Set",
     price: 7099,
     image: "https://ajeh.in/cdn/shop/files/IMG_8470.jpg?v=1752938569&width=1445",
@@ -136,7 +136,7 @@ export const initialProducts = [
   
   },
   {
-    id: 607,
+    id: 115,
     name: "Silver Polish ",
     price: 9099,
     image: "https://siyari.com/cdn/shop/articles/Bridal_diamond_necklace_in_hyderabad_2.jpg?v=1762237316&width=4038",
@@ -146,7 +146,7 @@ export const initialProducts = [
     category: "necklace",
   },
   {
-    id: 608,
+    id: 116,
     name: "Premium Bridal AD Stone Necklace ",
     price: 6999,
     image: "https://zuccii.com/cdn/shop/files/Designer_Premium_Bridal_ADz_Stone_Necklace_Set_With_Earrings_-Silver_Polish.jpg",
@@ -156,7 +156,7 @@ export const initialProducts = [
   },
 
   {
-    id: 654,
+    id: 117,
     name: "Silver Toned Emerald Green Zircon ",
     price: 9099,
     image: "https://cdn.eternz.com/thumbnails/products/283528329_110b7074_thumbnail_1024.jpg",
@@ -165,7 +165,7 @@ export const initialProducts = [
   },
 
   {
-    id: 655,
+    id: 118,
     name: "Silver Toned Emerald Green Zircon ",
     price: 9099,
     image: " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGQA8Mi3HT0H3VL0WUDXOmBI_XjkD-B-WfxJw4CBEniWG6TW6HBeshTg8&s=10",
@@ -175,7 +175,7 @@ export const initialProducts = [
 
 
   {
-    id: 657,
+    id: 119,
     name: "Silver Toned Emerald Green Zircon ",
     price: 9099,
     image: "/images/bangle.png",
@@ -184,7 +184,7 @@ export const initialProducts = [
   },
   
   {
-    id: 658,
+    id: 120,
     name: "purl royal Queen bridal chuda set",
     price: 9099,
     image: "/images/royalchuda.png",
@@ -193,7 +193,7 @@ export const initialProducts = [
   },
    
   {
-    id: 659,
+    id: 121,
     name: "AD-001 embral ring",
     price: 909,
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvuHWGF4nM-Jmbgm55qCqJwk_0xqwIMWHWUtT7T1hJUwVgvmKSb8Mw40cp&s=10",
@@ -202,7 +202,7 @@ export const initialProducts = [
   },
   
   {
-    id: 689,
+    id: 122,
     name: "royal AD ring",
     price: 909,
     image: "https://www.kuvarjewels.com/cdn/shop/files/F4602376-FEE5-49F4-B2A2-6269F595649C_1080x1080.jpg?v=1715445385",
@@ -211,7 +211,7 @@ export const initialProducts = [
   },
     
   {
-    id: 700,
+    id: 123,
     name: "royal Maharani ring",
     price: 909,
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1STGHJPOdEhtcaZ7v4_w_EFjrxzRtLpa9YDDnBdedAg&s=10",
@@ -220,7 +220,7 @@ export const initialProducts = [
   },
   
   {
-    id: 743,
+    id: 124,
     name: "Silver royal AD ring",
     price: 909,
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGqe6NDl5bHtUDF6xoOBLlLMqqRl86E4ZvCCPUx2-hLS1DYtbDNrQ1gdeA&s=10",
@@ -229,7 +229,7 @@ export const initialProducts = [
   },
 
   {
-    id: 765,
+    id: 125,
     name: "royal AD ring",
     price: 909,
     image: "https://api.dipraluxe.com/storage/gallery/images/whatsapp-image-2026-04-29-at-71731-pm-3.webp",
@@ -237,7 +237,7 @@ export const initialProducts = [
     category: "Ring",
   },
   {
-    id: 766,
+    id: 126,
     name: "royal AD ring",
     price: 909,
     image: "/images/hard.png",
@@ -245,13 +245,24 @@ export const initialProducts = [
     category: "chuda",
   },
 {
-    id: 768,
+    id: 127,
     name: "royal AD chuda",
     price: 900,
     image: "https://jewelsgalaxy.com/cdn/shop/files/SMNJG-RNG-5293-M-1-2x.jpg?v=1757752807&width=1024",
     description:"Silver Toned Emerald Green Zircon AD Studded Layered Bridal Drop Designer Statement royal ring.",
     category: "Ring",
   },
+  
+{
+    id: 128,
+    name: "royal AD chuda",
+    price: 900,
+    image: "/images/shyam.png",
+    description:"Silver Toned Emerald Green Zircon AD Studded Layered Bridal Drop Designer Statement royal ring.",
+    category: "Ring",
+  },
+  
+
 
 
 
